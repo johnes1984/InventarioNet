@@ -9,3 +9,14 @@ D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\Inventario\Inve
 D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\Inventario\Inventario\obj\x86\Debug\Inventario.pdb
 D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\Inventario\Inventario\obj\x86\Debug\Inventario.frmPrincipal.resources
 D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\Inventario\Inventario\obj\x86\Debug\Inventario.frmGrupo.resources
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\obj\x86\Debug\Inventario.exe
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\obj\x86\Debug\Inventario.xml
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\obj\x86\Debug\Inventario.pdb
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\bin\Debug\Inventario.exe
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\bin\Debug\Inventario.pdb
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\bin\Debug\Inventario.xml
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\obj\x86\Debug\Inventario.frmGrupo.resources
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\obj\x86\Debug\Inventario.Resources.resources
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\obj\x86\Debug\Inventario.frmPrincipal.resources
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\obj\x86\Debug\Inventario.vbproj.GenerateResource.Cache
+D:\backup\Misdocumentos\Programacion\Visual Studio 2010\Projects\suelas\Inventario\obj\x86\Debug\Inventario.exe.licenses
